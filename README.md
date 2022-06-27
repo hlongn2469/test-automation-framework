@@ -1,4 +1,4 @@
-# test-automation-framework
+# Test-automation-framework
 Goal:
 - create a dedicate Java test automation framework for integration test and support code from scratch
 - Maintain a clear organization of test framework:
