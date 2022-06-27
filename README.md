@@ -1,11 +1,11 @@
 # Test-automation-framework
-Goal:
-- create a dedicate Java test automation framework for integration test and support code from scratch
+## Goal:
+- Create a dedicate Java test automation framework for integration test and support code from scratch
 - Maintain a clear organization of test framework:
   - Develop support code under main folder including entities POJOS and Body Handlers to handle object mapping
   - Develop test cases including Junit, Selenium, HTTPClient/RestAssured under test folder
 
-Process:
+## Process:
 - Initialize an empty Maven project with IntelliJ
 - Add testing framework dependencies (Junit,Selenium, RestAssured) to pom.xml
 - Create test folder anc class under src/test
