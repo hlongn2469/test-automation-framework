@@ -16,11 +16,12 @@
 - Create dummy method and test expected result vs actual result with ASSERTIONS method
 
 ### 2) Selenium Web UI testing
+- Test username display, repo access, and repo counts.
 - General flow:
   - Download ChromeDriver
   - Set up chromeDriver
   - Use Chrome Driver to act as client
-  - Assert
+  - Assert against expected output
 
 #### a) Refactor UI Tests
 - Create a @beforeEach set up and @AfterEach clean up method for the webdriver
