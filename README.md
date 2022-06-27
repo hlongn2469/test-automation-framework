@@ -40,7 +40,7 @@ Process:
   - Set up HTTP Client and Request to establish API connection to the server
   - Receive a response from client 
   - Assert the response against expected values
-  - 
+ 
 #### b) Refactor API test
 - Create a @beforeAll set up method to fire the request and get response per test run
 - Create constant global variables such as base url, HTTP client, HTTP response
@@ -56,3 +56,4 @@ Process:
 - Cons: Hide details in testing Rest APIs
 
 ### 5) Scaling test framework to multi-module
+
