@@ -1,6 +1,7 @@
 # Test-automation-framework
 ## Goal:
-- Create a dedicate Java test automation framework for integration test and support code from scratch
+- Create a dedicate Java test automation framework for Web UI, API and support code from scratch
+- System Under Test (SUT): Github Page
 - Maintain a clear organization of test framework:
   - Develop support code under main folder including entities POJOS and Body Handlers to handle object mapping
   - Develop test cases including Junit, Selenium, HTTPClient/RestAssured under test folder
